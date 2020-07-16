@@ -5,6 +5,7 @@
       <div class="left-side">
         <span class="title">
           Welcome to your new project!
+          <v-btn small color="primary">Primary</v-btn>
         </span>
         <system-information></system-information>
       </div>
